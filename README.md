@@ -9,10 +9,10 @@ Toujours en train d’apprendre, construire et expérimenter de nouvelles techno
 
 ## 🚀 À propos de moi
 
-- 🔭 Je travaille principalement avec **Angular**, **Node.js** et **TypeScript**
-- 🌱 J’apprends actuellement **Python** et le **machine learning**
-- 🛠️ Je développe des APIs sécurisées avec **OData**
-- ⚡ J’aime créer des projets web complets, du backend jusqu’au frontend
+- Je travaille principalement avec **Angular**, **Node.js** et **TypeScript**
+- J’apprends actuellement **Python** et le **machine learning**
+- Je développe des APIs sécurisées avec **OData**
+- J’aime créer des projets web complets, du backend jusqu’au frontend
 
 ---
 
@@ -23,19 +23,19 @@ Toujours en train d’apprendre, construire et expérimenter de nouvelles techno
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![PrimeNG](https://img.shields.io/badge/-PrimeNG-DD0031?style=for-the-badge)
 
-## ⚙️ Backend
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge) 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 
-## 🗄️ Base de données
+### 🗄️ Base de données
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge)
 
-## 🧰 Outils & DevOps
+### 🧰 Outils & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
-## 📚 En apprentissage
+### 📚 En apprentissage
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 
