@@ -1,8 +1,9 @@
 
 # 👋 Salut, moi c'est Lucas
 
- Développeur fullstack passionné par le web, les API et les projets techniques ambitieux.  
- Toujours en train d’apprendre, construire et expérimenter de nouvelles technos.
+Développeur fullstack junior et étudiant, passionné par le web, les API et les projets techniques ambitieux.  
+Toujours en train d’apprendre, construire et expérimenter de nouvelles technos.
+
 
 ---
 
