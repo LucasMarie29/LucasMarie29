@@ -44,7 +44,7 @@ Toujours en train d’apprendre, construire et expérimenter de nouvelles techno
 # 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/LucasMarie29"/>
+  <img src="https://ghchart.rshah.org/58A6FF/LucasMarie29"/>
 </p>
 
 ---
