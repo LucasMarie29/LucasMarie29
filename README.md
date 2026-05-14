@@ -18,7 +18,7 @@ Toujours en train d’apprendre, construire et expérimenter de nouvelles techno
 
 # 🛠️ Stack technique
 
-## 💻 Frontend
+### 💻 Frontend
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![PrimeNG](https://img.shields.io/badge/-PrimeNG-DD0031?style=for-the-badge)
