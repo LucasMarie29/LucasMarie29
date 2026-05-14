@@ -43,12 +43,8 @@ Toujours en train d’apprendre, construire et expérimenter de nouvelles techno
 
 # 📊 Stats GitHub
 
-<h3 align="center">🌱 Mes contributions cette année</h3>
 <p align="center">
-  <img 
-    src="https://ghchart.rshah.org/2ecc71/LucasMarie29"
-    alt="GitHub contribution chart"
-  />
+  <img src="https://github-activity-graph.vercel.app/graph?username=LucasMarie29&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
