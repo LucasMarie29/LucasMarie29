@@ -44,7 +44,7 @@ Toujours en train d’apprendre, construire et expérimenter de nouvelles techno
 # 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LucasMarie29&theme=tokyonight"/>
+  <img src="https://ghchart.rshah.org/LucasMarie29"/>
 </p>
 
 ---
