@@ -44,7 +44,8 @@ Toujours en train d’apprendre, construire et expérimenter de nouvelles techno
 # 📊 Stats GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMarie29&show_icons=true&theme=tokyonight"/>
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucasMarie29&show_icons=true&theme=tokyonight"
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMarie29&layout=compact&theme=tokyonight"/>
 </p>
 
