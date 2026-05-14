@@ -9,10 +9,8 @@
 ## 🚀 À propos de moi
 
 - 🔭 Je travaille principalement avec **Angular**, **Node.js** et **TypeScript**
-- 🔐 J’intègre des systèmes d’authentification avec **Keycloak**
-- 🌱 J’apprends actuellement **Rust**, **Python** et le **machine learning**
+- 🌱 J’apprends actuellement **Python** et le **machine learning**
 - 🛠️ Je développe des APIs sécurisées avec **OData**
-- 🎮 Je gère aussi un serveur Minecraft moddé avec plus de 150 mods
 - ⚡ J’aime créer des projets web complets, du backend jusqu’au frontend
 
 ---
@@ -26,6 +24,8 @@
 
 ## ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge) 
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 
 ## 🗄️ Base de données
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge)
@@ -36,15 +36,15 @@
 
 ## 📚 En apprentissage
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 
 ---
 
 # 📊 Stats GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TONPSEUDO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TONPSEUDO&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMarie29&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMarie29&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
