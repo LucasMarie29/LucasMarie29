@@ -44,7 +44,7 @@ Toujours en train d’apprendre, construire et expérimenter de nouvelles techno
 # 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=LucasMarie29&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&hide_border=true"/>
+  <img src="https://github-activity-graph.vercel.app/graph?username=LucasMarie29&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
