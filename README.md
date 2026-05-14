@@ -1,8 +1,8 @@
 
 # 👋 Salut, moi c'est Lucas
 
-💻 Développeur fullstack passionné par le web, les API et les projets techniques ambitieux.  
-🚀 Toujours en train d’apprendre, construire et expérimenter de nouvelles technos.
+ Développeur fullstack passionné par le web, les API et les projets techniques ambitieux.  
+ Toujours en train d’apprendre, construire et expérimenter de nouvelles technos.
 
 ---
 
@@ -26,8 +26,6 @@
 
 ## ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![OData](https://img.shields.io/badge/-OData-0F62FE?style=for-the-badge)
-![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?logo=keycloak&logoColor=white&style=for-the-badge)
 
 ## 🗄️ Base de données
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge)
@@ -39,15 +37,6 @@
 ## 📚 En apprentissage
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
-
----
-
-# 📌 Projets en cours
-
-- 🚆 API Angular + Node.js sécurisée avec Keycloak
-- 🎥 Plateforme de streaming personnel en Symfony
-- 🤖 Initiation au machine learning avec Python
-- ⚙️ Gestion avancée de QR codes et tableaux dynamiques
 
 ---
 
@@ -63,17 +52,14 @@
 # 📫 Contact
 
 <p align="left">
-  <a href="https://github.com/TONPSEUDO">
+  <a href="https://github.com/LucasMarie29">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
   </a>
 
-  <a href="https://linkedin.com/in/tonprofil">
+  <a href="https://www.linkedin.com/in/lucas-marie-068434281/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
 
-  <a href="https://tonsite.dev">
-    <img src="https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge"/>
-  </a>
 </p>
 
 ---
