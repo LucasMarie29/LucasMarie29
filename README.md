@@ -1,4 +1,4 @@
-```md
+
 # 👋 Salut, moi c'est Lucas
 
 💻 Développeur fullstack passionné par le web, les API et les projets techniques ambitieux.  
