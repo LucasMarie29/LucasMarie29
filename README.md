@@ -41,14 +41,6 @@ Toujours en train d’apprendre, construire et expérimenter de nouvelles techno
 
 ---
 
-# 📊 Stats GitHub
-
-<p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=LucasMarie29&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
 # 📫 Contact
 
 <p align="left">
