@@ -7,7 +7,7 @@ Toujours en train d’apprendre, construire et expérimenter de nouvelles techno
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 
 - Je travaille principalement avec **Angular**, **Node.js** et **TypeScript**
 - J’apprends actuellement **Python** et le **machine learning**
@@ -28,20 +28,20 @@ Toujours en train d’apprendre, construire et expérimenter de nouvelles techno
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge) 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 
-### 🗄️ Base de données
+### Base de données
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge)
 
-### 🧰 Outils & DevOps
+### Outils & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
-### 📚 En apprentissage
+### En apprentissage
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 
 ---
 
-# 📫 Contact
+# Contact
 
 <p align="left">
   <a href="https://github.com/LucasMarie29">
@@ -56,7 +56,7 @@ Toujours en train d’apprendre, construire et expérimenter de nouvelles techno
 
 ---
 
-# ⚡ Fun fact
+# Fun fact
 
 > Je peux passer 4 heures à corriger un bug…  
 > alors que c’était juste un `;` oublié.
